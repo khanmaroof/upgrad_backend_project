@@ -63,4 +63,4 @@ output
 8. Try accessing implemented API endpoints using swagger-ui, a plugin configured in the application.
 Open `http://localhost:8080/api/swagger-ui.html` in a browser and you should see all API endpoint implementation.
 
-> Best wishes!
+> Best wishes!!
